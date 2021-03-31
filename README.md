@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think I am crazy**
 
+👨‍💻 All of my projects are available at **http://confused-coast.surge.sh/**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
